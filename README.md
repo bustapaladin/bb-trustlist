@@ -1,2 +1,2 @@
-# bb-trustlist
-Bustabit Trustlist
+# CoinTrust List
+CoinTrust database list of scammers and trusted folk. 
